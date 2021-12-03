@@ -170,10 +170,11 @@
     align-items: center;
   }
   
-  .post .topo img {
+  .post .topo svg {
     width: 32px;
     height: 32px;
     margin-right: 10px;
+    color: black;
   }
   
   .post .usuario, .post .topo img, .post .fundo img, .post ion-icon, .post strong {
